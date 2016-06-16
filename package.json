@@ -1,0 +1,30 @@
+{
+  "name": "mp4-moov-move",
+  "version": "0.0.0",
+  "description": "Move `moov` atom before or after `mdat`",
+  "main": "index.js",
+  "dependencies": {
+    "mp4-box-encoding": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reklatsmasters/mp4-moov-move.git"
+  },
+  "keywords": [
+    "mp4",
+    "box",
+    "atom",
+    "moov",
+    "move"
+  ],
+  "author": "Dmitry Tsvettsikh <me@reklatsmasters.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reklatsmasters/mp4-moov-move/issues"
+  },
+  "homepage": "https://github.com/reklatsmasters/mp4-moov-move#readme"
+}

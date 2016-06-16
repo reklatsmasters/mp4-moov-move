@@ -1,0 +1,16 @@
+{
+  "env": {
+    "es6": true,
+    "node": true
+  },
+  "rules": {
+    "quotes": 0,
+    "semi": [2, "never"],
+    "camelcase": [2, {"properties": "always"}],
+    "func-style": ["error", "declaration", {"allowArrowFunctions": true}],
+    "no-use-before-define": [2, { "functions": false, "classes": false }],
+    "no-unused-vars" : 2,
+    "no-undef" : 2,
+    "prefer-const": 2
+  }
+}
