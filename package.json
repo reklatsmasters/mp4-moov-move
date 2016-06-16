@@ -1,6 +1,6 @@
 {
   "name": "mp4-moov-move",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Move `moov` atom before or after `mdat`",
   "main": "index.js",
   "dependencies": {
